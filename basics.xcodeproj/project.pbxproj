@@ -177,6 +177,8 @@
 		5D19DCB3186FB981004D82E6 /* test-particle-simulation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "test-particle-simulation.cpp"; sourceTree = "<group>"; };
 		5D19DCE0186FB9FC004D82E6 /* cf-libcpp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "cf-libcpp.h"; sourceTree = "<group>"; };
 		5D19DCE618708C11004D82E6 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5D19DD051876040F004D82E6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		5D19DD0618760415004D82E6 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,8 @@
 		5D19DBFE186FB965004D82E6 = {
 			isa = PBXGroup;
 			children = (
+				5D19DD051876040F004D82E6 /* README.md */,
+				5D19DD0618760415004D82E6 /* LICENSE */,
 				5D19DCDF186FB9FC004D82E6 /* libcpp */,
 				5D19DC1D186FB981004D82E6 /* abstract-platform */,
 				5D19DC5E186FB981004D82E6 /* colorfield */,
@@ -667,6 +671,7 @@
 				5D19DC1C186FB965004D82E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
